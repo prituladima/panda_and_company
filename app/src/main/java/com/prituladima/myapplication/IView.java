@@ -1,0 +1,8 @@
+package com.prituladima.myapplication;
+
+/**
+ * Created by prituladima on 3/24/18.
+ */
+
+public interface IView {
+}
